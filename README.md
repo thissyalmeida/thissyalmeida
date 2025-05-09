@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou a Thissiany (Thissy)!
 
-🎓 Mestre em Ciência da Computação pela Universidade Tecnológica Federal do Paraná (UTFPR) e especialista em **Ciência de Dados** pela **Faculdade Focus**. Tenho experiência sólida em **Mineração de Dados**, **Algoritmos Genéticos** e **Classificação Hierárquica Multirrótulo (HMC)**.
+🎓 Mestre e Bacharela em Ciência da Computação pela Universidade Tecnológica Federal do Paraná (UTFPR) e especialista em **Ciência de Dados** pela **Faculdade Focus**. Tenho experiência sólida em **Mineração de Dados**, **Algoritmos Genéticos** e **Classificação Hierárquica Multirrótulo (HMC)**.
 
 💡 Durante o mestrado, desenvolvi o método **FSW-HMC**, que combina algoritmos de Inteligência Artificial como **Sistema Imunológico Artificial (AIS)** e **Algoritmo Genético (AG)** com o classificador **Clus-HMC**, voltado à Seleção de Atributos em tarefas complexas de Classificação Multirrótulo com Estrutura Hierárquica.
 
