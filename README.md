@@ -4,9 +4,9 @@
 
 🎓 Especialista em **Ciência de Dados** pela **Faculdade Focus**.
 
-💡 Durante o mestrado, desenvolvi o método **FSW-HMC**, que combina algoritmos de Inteligência Artificial como **Sistema Imunológico Artificial (AIS)** e **Algoritmo Genético (AG)** com o classificador **Clus-HMC**, voltado à Seleção de Atributos em tarefas complexas de Classificação Multirrótulo com Estrutura Hierárquica.
+💡 Criadora do método **FSW-HMC**, que combina algoritmos de Inteligência Artificial como **Sistema Imunológico Artificial (AIS)** e **Algoritmo Genético (AG)** com o classificador **Clus-HMC**, voltado à Seleção de Atributos em tarefas complexas de Classificação Multirrótulo com Estrutura Hierárquica.
 
-👩‍🏫 Atuo no ensino de Programação, Matemática para Computação, Banco de dados, Processamento de Linguagem Natural e Inteligência Artificial, com foco em **Metodologias ativas** e **Projetos aplicados à realidade dos alunos**.
+👩‍🏫 Atuo no ensino de Programação, Matemática para Computação, Aprendizagem de Máquina, Processamento de Linguagem Natural e Métodos para Produção do Conhecimento, com foco em **Metodologias ativas** e **Projetos aplicados à realidade dos alunos**.
 
 🎮 Apaixonada por **games**, especialmente aqueles com narrativas envolventes, e por **séries**, que me inspiram com novas ideias criativas, lógicas e até algoritmos inusitados (obrigada, sci-fi!).
 
