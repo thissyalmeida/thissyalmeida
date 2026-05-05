@@ -1,3 +1,7 @@
+<img width="1440" height="802" alt="image" src="https://github.com/user-attachments/assets/c99076c1-870d-420d-aa94-9ecdc20fe247" />
+
+
+
 # 👋 Olá, eu sou a Thissiany (Thissy)!
 
 🎓 Mestre e Bacharela em Ciência da Computação pela UTFPR-PG.
