@@ -28,11 +28,4 @@
 
 ---
 
-## 🎯 Curiosidades
-
-* 🎮 Sempre que possível, tento integrar **elementos de jogos** no ensino ou nos projetos de IA.
-* 📺 Meu gênero favorito de série é ficção científica, mas não resisto a um bom drama ou suspense tecnológico.
-
----
-
 *Este perfil é um espaço para compartilhar projetos educacionais, acadêmicos e experimentos em IA, Ciência de Dados e Desenvolvimento de software — com um toque geek. Fique à vontade para explorar e trocar ideias! 🚀*
