@@ -3,13 +3,13 @@
 
 # APRESENTAÇÃO
 
-👋 Olá, eu sou a Profª Thissy!
+Olá, eu sou a Profª Thissy!
 
 👩‍🏫 Atuo no ensino de Programação, Matemática para Computação, Aprendizagem de Máquina, Processamento de Linguagem Natural e Métodos para Produção do Conhecimento, com foco em **Metodologias ativas** e **Projetos aplicados à realidade dos alunos**.
 
 🎮 Apaixonada por **games**, especialmente aqueles com narrativas envolventes, e por **séries**, que me inspiram com novas ideias criativas, lógicas e até algoritmos inusitados (obrigada, sci-fi!).
 
-## 💻 Tecnologias e Interesses
+# TECNOLOGIAS E INTERESSES
 
 * 💡 Inteligência Artificial aplicada à educação
 * 🤖 Aprendizado de Máquina e Classificação Multirrótulo
