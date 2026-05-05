@@ -1,6 +1,4 @@
-<img width="1440" height="802" alt="image" src="https://github.com/user-attachments/assets/c99076c1-870d-420d-aa94-9ecdc20fe247" />
-
-
+<img width="1336" height="390" alt="587927364-c99076c1-870d-420d-aa94-9ecdc20fe247" src="https://github.com/user-attachments/assets/dcc2839a-11c0-4389-a775-4e6886ff0389" />
 
 # 👋 Olá, eu sou a Thissiany (Thissy)!
 
